@@ -1,0 +1,2 @@
+python -m PyInstaller --name DekarGame Graphics.py -F -w
+python -m PyInstaller DekarGame.spec
