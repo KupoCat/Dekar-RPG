@@ -5,4 +5,5 @@ https://goo.gl/EigpNV
 
 #Change log:
 20/2/17: added keyboard movement and complied on every computer
+
 21/2/17: added functioning obstacles and saving different maps on text file in Data folder, arranged pictures into folders and devided the different classes into different files
