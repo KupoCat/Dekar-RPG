@@ -1,0 +1,13 @@
+def location_to_coords(x, y):
+  
+	temp_x = x+400
+  
+	temp_y = y+300
+  
+	return temp_x/80, temp_y/60
+
+
+
+def coords_to_location(sizeX, sizeY, i, j):
+
+	return -sizeX/2 - j*80, -sizeX/2 - i*60  
