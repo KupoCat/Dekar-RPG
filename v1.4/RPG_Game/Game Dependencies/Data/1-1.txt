@@ -1,0 +1,18 @@
+11852 Bush.png "LP" 100 "To complete this quest you need to gather 100 LP"
+11201 Rock.png
+11001 Rock.png
+11011 Rock.png
+11211 Rock.png
+11021 Rock.png
+11221 Rock.png
+11041 Rock.png
+11031 Rock.png
+11231 Rock.png
+11331 Rock.png
+11431 Rock.png
+11051 Rock.png
+11151 Rock.png
+11251 Rock.png
+11351 Rock.png
+11451 Rock.png
+11531 Rock.png
